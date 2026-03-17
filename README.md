@@ -3,9 +3,9 @@ Jeu de Puissance 4 avec interface Pygame. IA basée sur l'algorithme Minimax et 
 Ce projet est une implémentation du Puissance 4 en Python. J'ai développé une IA capable d'anticiper les coups du joueur pour proposer un défi réel, en utilisant des concepts fondamentaux de l'Intelligence Artificielle de décision.
 
 # Fonctionnalités
-- Interface Graphique : Jeu fluide réalisé avec `Pygame`.
+- Interface Graphique :Jeu fluide réalisé avec `Pygame`.
 - IA Stratégique : Algorithme Minimax avec élagage Alpha-Bêta.
-- Analyse Prédictive : L'IA anticipe jusqu'à 6 coups à l'avance.
+- Analyse Prédictive :L'IA anticipe jusqu'à 6 coups à l'avance.
 
 # La fonction Score
 
